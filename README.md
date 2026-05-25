@@ -1,0 +1,2 @@
+### About the Project
+This is a simple desktop Calculator application made using Python's `tkinter` and `math` libraries. It features a clean, user-friendly interface for everyday math, supporting basic operations (a+b, a-b, a*b, a/b), decimals, percentages, and square roots. Designed with built-in error handling and a centered screen layout, it offers a lightweight and reliable tool for quick calculations.
